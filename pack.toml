@@ -1,0 +1,13 @@
+name = "MTcubeSMP"
+author = "Matix732"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "65840a11e75295b8cd8f9052b691c14f1b563833d343db6d92c3f21d60e7395d"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.219"

@@ -1,0 +1,16 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"pamhc2foodextended:spagettiitem"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"pamhc2foodcore:chocolatecakeitem"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"pamhc2foodcore:honeypieitem"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"pamhc2foodcore:chocolatepieitem"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"pamhc2foodcore:carrotpieitem"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"the_bumblezone:stinger_spear"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"the_bumblezone:bee_stinger"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:honeycomb_block"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"block_factorys_bosses:big_chain"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"block_factorys_bosses:ancient_iron_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"block_factorys_bosses:ancient_iron_nugget"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"block_factorys_bosses:knight_sword","components":{"minecraft:custom_data":{"swing_animtime":0,"itemKey":"0d308c57-ba0f-4179-ab37-542db2db9a65"},"minecraft:damage":2}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"block_factorys_bosses:dragon_bone"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]
