@@ -1058,6 +1058,10 @@ file = "mods/chloride-NEOFORGE-mc1.21.1-v1.7.5.jar"
 hash = "572460f9f0030c276fcfd61fab8c0b3712a2e90e95aa0776575f6d980061b1f4"
 
 [[files]]
+file = "mods/clientsort-neoforge-2.2.1+1.21.1.jar"
+hash = "985bf84e001a614b7342d5b610ff99a438ac4c22e8aa33be2c032042ffb639a8"
+
+[[files]]
 file = "mods/cluttered-[NeoForge]-3.0.3-1.21.1.jar"
 hash = "c1649584e178ce04b2ca923f4afcd5640f67cea7a122dc166f9a773db8683e8f"
 
@@ -1313,6 +1317,10 @@ hash = "8148be367bc1bf30b18e975affacdf6ff7c5720718f807dc7197247f6a2695d1"
 [[files]]
 file = "mods/spark-1.10.124-neoforge.jar"
 hash = "647e8a81afbe414dba1df4ba15fd06c5d32d4cb544e68828405e8e074c2e16db"
+
+[[files]]
+file = "mods/spawnanimations-v1.11.4-mc1.17-26.1.1-mod.jar"
+hash = "a5c5ae86dddfb9871c0cbb40d70a4c36a949f61ea9f730019cf114414b9c88b4"
 
 [[files]]
 file = "mods/supermartijn642corelib-1.1.20-neoforge-mc1.21.jar"
