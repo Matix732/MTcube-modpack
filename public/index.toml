@@ -949,10 +949,6 @@ file = "mods/Controlling-neoforge-1.21.1-19.0.5.jar"
 hash = "cc525fb6b030d9e4d33176983f278919e17b33935e2ca568929bdfa98f2b44a0"
 
 [[files]]
-file = "mods/CreateDragonsPlus-1.10.1.jar"
-hash = "a192bc7074232e6e6a4acc7620a66f28a1fa314235ef2648edae034b1434b428"
-
-[[files]]
 file = "mods/DnDesires-1.21.1-2.3a-BETA.jar"
 hash = "d3f7f2384e8327c81671f2d48df15a0bba98ef04b727a430079cfc9145a7a379"
 
@@ -1150,10 +1146,6 @@ hash = "f61e750eb2cb49867483d34d6630e02597a52e41680fc38d1c65ece4ef36fd2b"
 [[files]]
 file = "mods/create-1.21.1-6.0.10.jar"
 hash = "ef87fe5709f1ba1f5b8bb20a2925b5afb4669e178fd6d8bf10c167759eefe37a"
-
-[[files]]
-file = "mods/create-central-kitchen-2.4.0.jar"
-hash = "259a9b88d305780234bb2020359879406d74b945616d99a16871334d7aee1826"
 
 [[files]]
 file = "mods/create_power_loader-2.0.3-mc1.21.1.jar"
