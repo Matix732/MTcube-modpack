@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "_headers"
-hash = "4e466bf23a05cb5b31df15855a3e0095b8f4d6ca6a5756af8083c8c311d703cc"
-
-[[files]]
 file = "config/Mekanism/client.toml"
 hash = "5a3febd891fbed6961403ad21b32ff89e7165fdb2c5e82c43d6d5fc2d99b7cc0"
 
