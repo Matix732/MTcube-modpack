@@ -949,6 +949,10 @@ file = "mods/Controlling-neoforge-1.21.1-19.0.5.jar"
 hash = "cc525fb6b030d9e4d33176983f278919e17b33935e2ca568929bdfa98f2b44a0"
 
 [[files]]
+file = "mods/DnDesires-1.21.1-2.3a-BETA.jar"
+hash = "d3f7f2384e8327c81671f2d48df15a0bba98ef04b727a430079cfc9145a7a379"
+
+[[files]]
 file = "mods/Draconic-Evolution-1.21.1-3.1.4.632.jar"
 hash = "623d7d58e58428a206015b56bf67387c79ff6d97f7221cff23b1dad0bed9544e"
 
@@ -1007,6 +1011,54 @@ hash = "8bdbc98f32f4166061439e8dda346345012788ddebaeb743a3b585d8a0a0fbbc"
 [[files]]
 file = "mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar"
 hash = "edb34c388fe17ea88d0a7fd11174bbf8ae8f28a4c8ce886f1bf9a5cf0ebc36b8"
+
+[[files]]
+file = "mods/YungsBetterCaves-1.21.1-NeoForge-3.1.4.jar"
+hash = "aa94ae3e7fdacb469459bf45be60c35bebfebe0488a79e31c7686d746939701d"
+
+[[files]]
+file = "mods/YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar"
+hash = "2c3191ad447092cc7873a06e92f16bd3e2ff9dc31e93268b8893d06dd89e1fd6"
+
+[[files]]
+file = "mods/YungsBetterEndIsland-1.21.1-NeoForge-3.1.2.jar"
+hash = "8005f1ea798d09fc05dad07a21ed1f393a523a718197cdbd37b1ce6d9a17e4a4"
+
+[[files]]
+file = "mods/YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar"
+hash = "a0d57b78c7a1891796f342b1f09c214bc27bedf0a3a894f029dfdb2db9f813d0"
+
+[[files]]
+file = "mods/YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar"
+hash = "5625930dfb3240820d6e4ecf55fff0c39f70ce782fad117a4d418251184c7be0"
+
+[[files]]
+file = "mods/YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar"
+hash = "5450a64a7036237f449496837e08f3e5b3aa1d7974a10df43944172def75d8ff"
+
+[[files]]
+file = "mods/YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar"
+hash = "cdcf8fe0e08c75261048d43c6ed4898972d23e096dd04a2524c136f06416ab02"
+
+[[files]]
+file = "mods/YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar"
+hash = "a9cab2fc01538368862365691f7d215309801aed0b390351681b6b60a1db7b58"
+
+[[files]]
+file = "mods/YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1.jar"
+hash = "888b1e6d1ada21982a75abfb4afb040c9bc2cc68777ec5fcd1199b978e3d4f8d"
+
+[[files]]
+file = "mods/YungsBridges-1.21.1-NeoForge-5.1.1.jar"
+hash = "bf93a85422a6b457358c3b56352641a97ec09cc37dec18b2cedcac2bd1ff9bec"
+
+[[files]]
+file = "mods/YungsCaveBiomes-1.21.1-NeoForge-3.1.1.jar"
+hash = "7585587e5cb7859e26189c6ec0a5b829c5c228f095e4e843fa3add61f817dd20"
+
+[[files]]
+file = "mods/YungsExtras-1.21.1-NeoForge-5.1.1.jar"
+hash = "0cd26474e514f5dc3114aaf5ec7e049bcd285f0c5db191bb45223193f35df70d"
 
 [[files]]
 file = "mods/aether.pw.toml"
@@ -1092,6 +1144,10 @@ file = "mods/create-1.21.1-6.0.9.jar"
 hash = "c3030f79894ba7410d51e99dd5e5b8a4f4cc9de6cb63c5906dc8f909000a4f55"
 
 [[files]]
+file = "mods/create-central-kitchen-2.4.0.jar"
+hash = "259a9b88d305780234bb2020359879406d74b945616d99a16871334d7aee1826"
+
+[[files]]
 file = "mods/create_power_loader-2.0.3-mc1.21.1.jar"
 hash = "31004286d41510b07e812912f8510696065f77be593098a163701d26d4ffe17d"
 
@@ -1102,6 +1158,10 @@ hash = "d07675d794c7e8e61134245c52393ffa12569e8d89753146d8a5171ebe5cdadb"
 [[files]]
 file = "mods/createaddition-1.5.10.jar"
 hash = "72653762c1014c33ce151858d1478573dbd74cbc23c74ffe1fb2d71fb73627ee"
+
+[[files]]
+file = "mods/createfood-neoforge-1.21.1-2.4.0.jar"
+hash = "3c830e87762eeb183ca06cc9c62be9b8f2d3d3f15af92c7572a50affde62236a"
 
 [[files]]
 file = "mods/creategoggles-1.21.1-6.1.1-[NEOFORGE].jar"
@@ -1245,6 +1305,10 @@ hash = "02aa4dcb8fa24cffcd2182c66683c2a476a95abf53002373f953a49737a587e3"
 metafile = true
 
 [[files]]
+file = "mods/naturalist-1.0.2-neoforge-1.21.1.jar"
+hash = "04616a9f136c7a8fd6f9f75e83be80af33bc54924b3ca16b0f33d19273c25e95"
+
+[[files]]
 file = "mods/notenoughanimations-neoforge-1.11.2-mc1.21.1.jar"
 hash = "a2d7bbf5e13d5d5bb6da970f61c1c3077c649781bb65b0613936939093d9ca27"
 
@@ -1287,6 +1351,10 @@ hash = "c825d6acd41a983217f410c6d51c6557e3afc35131f6da0aa6dcd07e67cfa52c"
 [[files]]
 file = "mods/sliceanddice-forge-4.2.2.jar"
 hash = "3a58adf0755c9601191074dcd54d69db9a7772990224cda7bcdeb042c797e933"
+
+[[files]]
+file = "mods/sliceanddice-forge-4.2.4.jar"
+hash = "c3bd743a73eed3de14f6be5221fe68655cfeed0749f8f467f2ce2012ed1416bd"
 
 [[files]]
 file = "mods/sodium-neoforge-0.6.13+mc1.21.1.jar"
@@ -1354,12 +1422,12 @@ file = "mods/waystones-neoforge-1.21.1-21.1.25.jar"
 hash = "53cf4c5ca2ee9b30246008e9d8ca4fb084a4527ce9fc26ec4d916a9cba6dba07"
 
 [[files]]
-file = "mods/xaerominimap-neoforge-1.21.1-25.3.10.jar"
-hash = "b28dd669e17d70be126b887845646ade10f2c9a2aed15a0750e7cc1c760e653d"
+file = "mods/xaerominimap-neoforge-1.21.1-25.3.13.jar"
+hash = "05fb78259566983b1e66501f46d6695bfab087e9630f3b65e82677b88244a1c2"
 
 [[files]]
-file = "mods/xaeroworldmap-neoforge-1.21.1-1.40.11.jar"
-hash = "a00363399c1672e5bfa399889d128f5ba60f42200ee97312038924df6cbebcb6"
+file = "mods/xaeroworldmap-neoforge-1.21.1-1.40.16.jar"
+hash = "73b1447333e467d23645ce7b2c319f3ca951b393b44b3a6ed0f41f06927d42bb"
 
 [[files]]
 file = "resourcepacks/Fusion 3D Items v1.0.1 for Minecraft 1.20-1.21.8.zip"
