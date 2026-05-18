@@ -1013,6 +1013,10 @@ file = "mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar"
 hash = "edb34c388fe17ea88d0a7fd11174bbf8ae8f28a4c8ce886f1bf9a5cf0ebc36b8"
 
 [[files]]
+file = "mods/YungsApi-1.21.1-NeoForge-5.1.6.jar"
+hash = "08e1d21690d3213a4c62de6b6cf79f3527afb2e72e0cad0e1848d46eb8f682ca"
+
+[[files]]
 file = "mods/YungsBetterCaves-1.21.1-NeoForge-3.1.4.jar"
 hash = "aa94ae3e7fdacb469459bf45be60c35bebfebe0488a79e31c7686d746939701d"
 
