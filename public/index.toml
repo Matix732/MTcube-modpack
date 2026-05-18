@@ -1014,6 +1014,11 @@ hash = "cc3f6e6e8f1838d16e47cce9241e32176279673efb1438ff4451ccffa9579b14"
 metafile = true
 
 [[files]]
+file = "mods/alexs-caves-(unofficial-port).pw.toml"
+hash = "e3ea6c1ae49cfdb68008b673687d013a8b75d53fc2cc66ba2d1677dc51b929b0"
+metafile = true
+
+[[files]]
 file = "mods/amendments-1.21-2.0.15-neoforge.jar"
 hash = "e44e67d5c2eb5a73ee8ca3d1e9099ed20ccbf8167022bc407df8434b1bf362b5"
 
@@ -1052,6 +1057,11 @@ hash = "49bca801c0527239c86fc2f36b397f68c7e1ad9016f71dbc15bb66d345693432"
 [[files]]
 file = "mods/chloride-NEOFORGE-mc1.21.1-v1.7.5.jar"
 hash = "572460f9f0030c276fcfd61fab8c0b3712a2e90e95aa0776575f6d980061b1f4"
+
+[[files]]
+file = "mods/citadel-(1.21.1-port).pw.toml"
+hash = "80d7af83c244304212b8d95ab2e3525b3eeae02f31e41474c2cdec2f4d370723"
+metafile = true
 
 [[files]]
 file = "mods/clientsort-neoforge-2.2.1+1.21.1.jar"
@@ -1269,6 +1279,10 @@ hash = "e00e960f9cae9ea411429fadaa48e2d778f8064667cf6aaee7ce88332813b0bf"
 [[files]]
 file = "mods/resourcefullib-neoforge-1.21-3.0.12.jar"
 hash = "5e36f2c69de008dc5795f730c84ab767688f15c810944b585485349a0c911261"
+
+[[files]]
+file = "mods/skinlayers3d-neoforge-1.11.1-mc1.21.1.jar"
+hash = "c825d6acd41a983217f410c6d51c6557e3afc35131f6da0aa6dcd07e67cfa52c"
 
 [[files]]
 file = "mods/sliceanddice-forge-4.2.2.jar"
