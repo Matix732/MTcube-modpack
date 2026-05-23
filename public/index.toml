@@ -949,6 +949,10 @@ file = "mods/Controlling-neoforge-1.21.1-19.0.5.jar"
 hash = "cc525fb6b030d9e4d33176983f278919e17b33935e2ca568929bdfa98f2b44a0"
 
 [[files]]
+file = "mods/Corgilib-NeoForge-1.21.1-5.0.0.9.jar"
+hash = "5e058a4fcb29a538821351081fcf10172fc707767756774afed1bf0e1953c7e3"
+
+[[files]]
 file = "mods/DnDesires-1.21.1-2.3a-BETA.jar"
 hash = "d3f7f2384e8327c81671f2d48df15a0bba98ef04b727a430079cfc9145a7a379"
 
@@ -995,6 +999,10 @@ hash = "6dd24f37f5d69a6f9803c00b7722f9f103647131c29415511fa01c6feced0848"
 [[files]]
 file = "mods/Oh-The-Biomes-Weve-Gone-NeoForge-2.5.5.jar"
 hash = "ca14479669dde42dc637d262c41aa9536113d46fb921d8854b7ee40d3d244d38"
+
+[[files]]
+file = "mods/Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.3.2.jar"
+hash = "571feb4d223ee2b5661ed3450ea5c68db18627badcef4d59095a329fc03a7685"
 
 [[files]]
 file = "mods/Patchouli-1.21.1-92-NEOFORGE.jar"
