@@ -1144,6 +1144,10 @@ file = "mods/clientsort-neoforge-2.2.1+1.21.1.jar"
 hash = "985bf84e001a614b7342d5b610ff99a438ac4c22e8aa33be2c032042ffb639a8"
 
 [[files]]
+file = "mods/cloth-config-15.0.140-neoforge.jar"
+hash = "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4"
+
+[[files]]
 file = "mods/cluttered-[NeoForge]-3.0.3-1.21.1.jar"
 hash = "c1649584e178ce04b2ca923f4afcd5640f67cea7a122dc166f9a773db8683e8f"
 
