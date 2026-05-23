@@ -1456,6 +1456,10 @@ hash = "2ec7ad946ebf6358b66e7b934cccf280cb5dae3cd16bf88eab638f9cd7c2f239"
 metafile = true
 
 [[files]]
+file = "mods/tide-neoforge-1.21.1-2.0.3.jar"
+hash = "f841040dc3c6c9ce6a694754e968d33150fa0e26125331b09c78bfd31c8efd73"
+
+[[files]]
 file = "mods/voicechat-neoforge-1.21.1-2.6.17.jar"
 hash = "0981cdb58e540722d68ba444dc4396e2467a8f0b2f346de55c68282c5671d70a"
 
