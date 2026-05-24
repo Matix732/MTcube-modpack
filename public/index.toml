@@ -701,6 +701,10 @@ file = "config/ponder-client.toml"
 hash = "57fe579bf4cdbcab6c6702dc0dad2727b899f07f28fea686bca1e4b25b20bbfb"
 
 [[files]]
+file = "config/securitycraft-client.toml"
+hash = "76ece0728cb7f2c58c0fe1e306ae645a04dfc8dc6e66bd8bcc9e34fb1609a5f0"
+
+[[files]]
 file = "config/sliceanddice-client.toml"
 hash = "765cd3bbbdd6ac865481befc841cf5a494412927d91857eb7561b213aad424d2"
 
