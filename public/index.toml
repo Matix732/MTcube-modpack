@@ -394,7 +394,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "bf645b149f9633c04a1e92764ede59cd8845017c167001d8d70845eb6917998f"
+hash = "3a1ec97d8ced4a780724fd4647efd44a71a60310989d06c59eab170864b7e543"
 
 [[files]]
 file = "config/jade/hide-blocks.json"
@@ -1514,6 +1514,10 @@ hash = "7eb703d765723f614211597c37e12ae5b3fbfc3740da538ed022a7477b95cb31"
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.7.1.zip"
 hash = "24a20634a7832d422d3cd5023be16829f26840e25c69404dd418306ea79f63f0"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.7.1.zip.txt"
+hash = "008b64a61d2d1acc39f0ac5b6e98be960abb6efe7a20e51fb4cbe92313b40c09"
 
 [[files]]
 file = "shaderpacks/Solas Shader V3.3.zip"
