@@ -1492,6 +1492,10 @@ file = "mods/xaeroworldmap-neoforge-1.21.1-1.40.16.jar"
 hash = "73b1447333e467d23645ce7b2c319f3ca951b393b44b3a6ed0f41f06927d42bb"
 
 [[files]]
+file = "options.txt"
+hash = "ac171ab68198af1c4adb3fce0c2db340341d031f94e36693e0ad54e9d4a2e7da"
+
+[[files]]
 file = "resourcepacks/Fusion 3D Items v1.0.1 for Minecraft 1.20-1.21.8.zip"
 hash = "5050f1e42fa73d82dcb84785d62fbd0cc1fab7636c435ee4b0ea21799b068c12"
 
@@ -1521,7 +1525,7 @@ hash = "24a20634a7832d422d3cd5023be16829f26840e25c69404dd418306ea79f63f0"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.7.1.zip.txt"
-hash = "008b64a61d2d1acc39f0ac5b6e98be960abb6efe7a20e51fb4cbe92313b40c09"
+hash = "4e7f005299d9306f8ac518998a07a780a6401e6e92f588796e01eddd5fcc2e32"
 
 [[files]]
 file = "shaderpacks/Solas Shader V3.3.zip"
