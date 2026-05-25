@@ -1200,6 +1200,10 @@ file = "mods/createliquidfuel-2.1.1-1.21.1.jar"
 hash = "ccd44b069962890352dfee442508880a37eecd3c5625d74d668dd6eb7d39ee3d"
 
 [[files]]
+file = "mods/createnuclear-1.3.2-beta.3-neoforge.jar"
+hash = "0d33c608c756ef5e293f1734403050d64c9651332a311e7aaf01370f40d9b1e3"
+
+[[files]]
 file = "mods/crittersandcompanions-neoforge-1.21.1-2.3.4.jar"
 hash = "4520de01496893d5cb80faaaeadf67b03481ebe769e11caffaa02bb12fe3bcd1"
 
