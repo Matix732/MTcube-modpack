@@ -993,6 +993,10 @@ file = "mods/Mekanism-1.21.1-10.7.18.84.jar"
 hash = "3a14697671a7958319845dd606646f14365d456d2d7480a9d5215da6b77667ca"
 
 [[files]]
+file = "mods/MekanismGenerators-1.21.1-10.7.19.85.jar"
+hash = "0e5783b111e756f27b48c62b2f0e02fff750c77f7985ff809bfadc5f444ba4ac"
+
+[[files]]
 file = "mods/MouseTweaks-neoforge-mc1.21-2.26.1.jar"
 hash = "68e6f4201c5de97b77929a7215c9552495696ca6a3bf3ae4eacc34e135f6cc8b"
 
