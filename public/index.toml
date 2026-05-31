@@ -209,6 +209,10 @@ file = "config/corpse-server.toml"
 hash = "ccca6ca427eb813e81abe951caac1c37c8acc3fc55ba848eaef6bd2b303730c1"
 
 [[files]]
+file = "config/craftpresence.json"
+hash = "77ec53f88970084863ce945322b419ddf252a2bf3ef77c3eccc35acc645e8107"
+
+[[files]]
 file = "config/create-client.toml"
 hash = "da7f746b8a21a40618a7d4bfd0f3364b3cf1f46fc16cf9109fbbc8e54f93cf43"
 
@@ -957,6 +961,10 @@ file = "mods/Corgilib-NeoForge-1.21.1-5.0.0.9.jar"
 hash = "5e058a4fcb29a538821351081fcf10172fc707767756774afed1bf0e1953c7e3"
 
 [[files]]
+file = "mods/CraftPresence-2.7.1+1.21.1-neoforge.jar"
+hash = "575ba634eecb05c048d35d5135fb4c282aef9b7909a9215b997e749cba670fbe"
+
+[[files]]
 file = "mods/DnDesires-1.21.1-2.3a-BETA.jar"
 hash = "d3f7f2384e8327c81671f2d48df15a0bba98ef04b727a430079cfc9145a7a379"
 
@@ -1035,6 +1043,10 @@ hash = "edb34c388fe17ea88d0a7fd11174bbf8ae8f28a4c8ce886f1bf9a5cf0ebc36b8"
 [[files]]
 file = "mods/TravelersTitles-1.21.1-NeoForge-5.1.3.jar"
 hash = "f7d6811b58a432e4d7f0e80bfcc48210f7a8da251d1c3e528a73c26d0f2a56ed"
+
+[[files]]
+file = "mods/UniLib-1.2.1+1.21.1-neoforge.jar"
+hash = "f0d7c2a2df4e37229c27860a2296043fbf807b4a97265a3cc0997d03bb81fcaf"
 
 [[files]]
 file = "mods/YungsApi-1.21.1-NeoForge-5.1.6.jar"
@@ -1265,8 +1277,8 @@ file = "mods/guideme-21.1.15.jar"
 hash = "0901f237e6711af4194512b73410d4f6e8abb7b0bf51e33b5ee98a4f9a515be7"
 
 [[files]]
-file = "mods/iris-neoforge-1.8.12+mc1.21.1.jar"
-hash = "3e3f94d2d5cdcb8145c4385d521974aa2d8669b2cc212351f70cf06488182e83"
+file = "mods/iris-neoforge-1.8.8+mc1.21.1.jar"
+hash = "f4c48768fe0ec754c896702a5aa553dc717839e3fb49d62a78641ee7fcdfec37"
 
 [[files]]
 file = "mods/jei-1.21.1-neoforge-19.27.0.336.jar"
