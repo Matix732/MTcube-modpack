@@ -210,7 +210,7 @@ hash = "ccca6ca427eb813e81abe951caac1c37c8acc3fc55ba848eaef6bd2b303730c1"
 
 [[files]]
 file = "config/craftpresence.json"
-hash = "77ec53f88970084863ce945322b419ddf252a2bf3ef77c3eccc35acc645e8107"
+hash = "d583ed5c8aef521b58c4a37f9d9f36400c328e9ae41a239558df3b13976ea644"
 
 [[files]]
 file = "config/create-client.toml"
@@ -391,10 +391,6 @@ hash = "91cd49539494960b575e2640061961e159b7fdf1cdb4b850830a3e5f3e2ac794"
 [[files]]
 file = "config/guideme.toml"
 hash = "86ad6c16f2290267eb51f3654ebd8410921118450617154f337bdd442af53c28"
-
-[[files]]
-file = "config/iris-excluded.json"
-hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
