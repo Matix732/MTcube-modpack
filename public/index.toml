@@ -1273,8 +1273,8 @@ file = "mods/guideme-21.1.15.jar"
 hash = "0901f237e6711af4194512b73410d4f6e8abb7b0bf51e33b5ee98a4f9a515be7"
 
 [[files]]
-file = "mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar"
-hash = "60d5f8bf52f25e9986440f4a4270a6bd986d9cff994510e1108ac1547063b314"
+file = "mods/iris-neoforge-1.8.12+mc1.21.1.jar"
+hash = "3e3f94d2d5cdcb8145c4385d521974aa2d8669b2cc212351f70cf06488182e83"
 
 [[files]]
 file = "mods/jei-1.21.1-neoforge-19.27.0.336.jar"
