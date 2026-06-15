@@ -1273,8 +1273,8 @@ file = "mods/guideme-21.1.15.jar"
 hash = "0901f237e6711af4194512b73410d4f6e8abb7b0bf51e33b5ee98a4f9a515be7"
 
 [[files]]
-file = "mods/iris-neoforge-1.8.8+mc1.21.1.jar"
-hash = "f4c48768fe0ec754c896702a5aa553dc717839e3fb49d62a78641ee7fcdfec37"
+file = "mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar"
+hash = "60d5f8bf52f25e9986440f4a4270a6bd986d9cff994510e1108ac1547063b314"
 
 [[files]]
 file = "mods/jei-1.21.1-neoforge-19.27.0.336.jar"
@@ -1418,8 +1418,8 @@ file = "mods/sliceanddice-forge-4.2.4.jar"
 hash = "c3bd743a73eed3de14f6be5221fe68655cfeed0749f8f467f2ce2012ed1416bd"
 
 [[files]]
-file = "mods/sodium-neoforge-0.6.13+mc1.21.1.jar"
-hash = "7acd7af2ef75ec883a6872c17494ead65e38025151eb08a1d60e36d34377f403"
+file = "mods/sodium-neoforge-0.8.12-beta.1+mc1.21.1.jar"
+hash = "dc2838d5538db39414171fe86586ab89d1a30d2fd97f59229cc44cf3777f569d"
 
 [[files]]
 file = "mods/sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar"
@@ -1484,6 +1484,10 @@ file = "mods/tide-neoforge-1.21.1-2.0.3.jar"
 hash = "f841040dc3c6c9ce6a694754e968d33150fa0e26125331b09c78bfd31c8efd73"
 
 [[files]]
+file = "mods/trashslot-neoforge-1.21.1-21.1.11.jar"
+hash = "61fdb5de0fc3d36db0e5dd82c2e03341e449bbc47ce13eeab834b05596b7bb5b"
+
+[[files]]
 file = "mods/voicechat-neoforge-1.21.1-2.6.17.jar"
 hash = "0981cdb58e540722d68ba444dc4396e2467a8f0b2f346de55c68282c5671d70a"
 
@@ -1492,12 +1496,16 @@ file = "mods/waystones-neoforge-1.21.1-21.1.25.jar"
 hash = "53cf4c5ca2ee9b30246008e9d8ca4fb084a4527ce9fc26ec4d916a9cba6dba07"
 
 [[files]]
-file = "mods/xaerominimap-neoforge-1.21.1-25.3.13.jar"
-hash = "05fb78259566983b1e66501f46d6695bfab087e9630f3b65e82677b88244a1c2"
+file = "mods/xaerominimap-neoforge-1.21.1-26.1.0.jar"
+hash = "6bd6cbab01ff57b9ba2fbfee18f9605593101f15d80e8d19dc59c385d2535ccc"
 
 [[files]]
-file = "mods/xaeroworldmap-neoforge-1.21.1-1.40.16.jar"
-hash = "73b1447333e467d23645ce7b2c319f3ca951b393b44b3a6ed0f41f06927d42bb"
+file = "mods/xaeros_waystones_compatibility-NeoForge-1.21.1-2.1.0.jar"
+hash = "fcd0a18f5f5940b31353ee70ddb0194cf1cd9565a8bfc9557c93804e34422b89"
+
+[[files]]
+file = "mods/xaeroworldmap-neoforge-1.21.1-1.41.0.jar"
+hash = "b3e377b11d277cfbc0ccdd91a6fb6bc1ff4e93b354eb9c0277e1e4446c316ccb"
 
 [[files]]
 file = "options.txt"
