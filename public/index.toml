@@ -1418,8 +1418,8 @@ file = "mods/sliceanddice-forge-4.2.4.jar"
 hash = "c3bd743a73eed3de14f6be5221fe68655cfeed0749f8f467f2ce2012ed1416bd"
 
 [[files]]
-file = "mods/sodium-neoforge-0.8.12-beta.1+mc1.21.1.jar"
-hash = "dc2838d5538db39414171fe86586ab89d1a30d2fd97f59229cc44cf3777f569d"
+file = "mods/sodium-neoforge-0.8.12-alpha.4+mc1.21.1.jar"
+hash = "105679c578291922a2e9d367429ebfd21bba0758aa7e00b80f38c5909573efa2"
 
 [[files]]
 file = "mods/sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar"
