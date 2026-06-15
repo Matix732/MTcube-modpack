@@ -1398,8 +1398,8 @@ file = "mods/realmrpg_skeletons-1.1.0-neoforge-1.21.1.jar"
 hash = "8a688c2dbd03abd51b48fd09e1ec29de3afe54511cef8046a58c3396c6227388"
 
 [[files]]
-file = "mods/reeses-sodium-options-neoforge-2.0.5+mc1.21.1.jar"
-hash = "492343c8c09f531d6d9b4b416401cf4aa18400b14aab4bb21fa5cba8e8b8d55d"
+file = "mods/reeses-sodium-options-neoforge-1.8.3+mc1.21.4.jar"
+hash = "e00e960f9cae9ea411429fadaa48e2d778f8064667cf6aaee7ce88332813b0bf"
 
 [[files]]
 file = "mods/resourcefullib-neoforge-1.21-3.0.12.jar"
