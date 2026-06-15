@@ -1466,8 +1466,8 @@ file = "mods/supermartijn642corelib-1.1.20-neoforge-mc1.21.jar"
 hash = "ad599fcd409f087e3e95a8263ff830b80ece841fc9854a9deb6c9b7738a292fc"
 
 [[files]]
-file = "mods/supplementaries-neoforge-1.21.1-3.6.8.jar"
-hash = "0dd0445af35aa15ad012833c4b8024d2ed70320d1ace0316d2f5b684b06a997d"
+file = "mods/supplementaries-neoforge-1.21.1-3.6.7.jar"
+hash = "352502e94b84f0e00ab29c16eca31c95fa9a37a4c38ec0ef7b71a4576dfddfa8"
 
 [[files]]
 file = "mods/terrablender.pw.toml"
