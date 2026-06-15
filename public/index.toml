@@ -1536,11 +1536,11 @@ file = "resourcepacks/connected_copper_grate.zip"
 hash = "7eb703d765723f614211597c37e12ae5b3fbfc3740da538ed022a7477b95cb31"
 
 [[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.7.1.zip"
-hash = "24a20634a7832d422d3cd5023be16829f26840e25c69404dd418306ea79f63f0"
+file = "shaderpacks/ComplementaryReimagined_r5.8.1.zip"
+hash = "3f1cd389e717b2e62f58edff222059b9c60de71b14bb49b517eb58318ce35b15"
 
 [[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.7.1.zip.txt"
+file = "shaderpacks/ComplementaryReimagined_r5.8.1.zip.txt"
 hash = "4e7f005299d9306f8ac518998a07a780a6401e6e92f588796e01eddd5fcc2e32"
 
 [[files]]
