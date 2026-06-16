@@ -1,3 +1,6 @@
 * text=auto eol=lf
 *.jar binary
 *.txt binary
+*.toml binary
+*.json binary
+*.properties binary
