@@ -977,6 +977,10 @@ file = "mods/FarmersDelight-1.21.1-1.2.10.jar"
 hash = "5346b829cdb4b4ae530a3e588b56aa4d26356ceec57a07e3d0c6b681f3f96dcb"
 
 [[files]]
+file = "mods/Female-Gender-Mod-neoforge-1.21-3.2.2.jar"
+hash = "3e5660b4c6734261f267d9ad6650496438befd0d4c04a5677db4ad16a63d9825"
+
+[[files]]
 file = "mods/FramedBlocks-10.5.3.jar"
 hash = "478689929c5f490b0a5f0368a1748599c49ab790065b29acaa48fe9173e55223"
 
@@ -1168,6 +1172,10 @@ file = "mods/cluttered-[NeoForge]-3.0.3-1.21.1.jar"
 hash = "c1649584e178ce04b2ca923f4afcd5640f67cea7a122dc166f9a773db8683e8f"
 
 [[files]]
+file = "mods/collective-1.21.1-8.29.jar"
+hash = "6c6b2b0ec143f51bf6711c8006b32c5fe268f68fdd7665a03feb80cdb7851cd8"
+
+[[files]]
 file = "mods/comforts-neoforge-9.0.5+1.21.1.jar"
 hash = "6b0fd35a1349107e08a45539adbde9683bb203febc43a3305f6fc4ac73e59615"
 
@@ -1233,6 +1241,10 @@ file = "mods/deeperdarker-neoforge-1.21.1-1.4.jar"
 hash = "1ab9be467644c31fba6231089a44f8173ffda21aaa7e5360358ae1b03a5b55e2"
 
 [[files]]
+file = "mods/doubledoors-1.21.1-7.2.jar"
+hash = "947cc425dba61a003fc6cfc9ce6bb87dbef1f2d4561701235eb2fed6073b72ff"
+
+[[files]]
 file = "mods/dummmmmmy-1.21-2.0.11-neoforge.jar"
 hash = "e595d378a3336769311987127be179a12c6dcc1492eabae9ec44b4c4f4f2bd37"
 
@@ -1265,8 +1277,16 @@ file = "mods/fusion-1.2.12-neoforge-mc1.21.1.jar"
 hash = "5961f78d85b7bd88205bc65c9f8182bc041646aa3579fa39810878d9b5b87c0c"
 
 [[files]]
+file = "mods/fzzy_config-0.7.6+1.21+neoforge.jar"
+hash = "4e5cc1438087b0bc0276969e88b9ad0bdf2bcc60d6caf5fe79e18947d7a29050"
+
+[[files]]
 file = "mods/geckolib-neoforge-1.21.1-4.8.3.jar"
 hash = "f5bbf6f9f84021ff044e3debba00a0c03c3d3ffab3150bb72c0f92c8b8218a92"
+
+[[files]]
+file = "mods/gliders-1.21.1-neoforge-1.1.8.jar"
+hash = "8029cc554dcee66ba779a0db7b043aa75942adf1768a8d5cd5cf90dbcb526975"
 
 [[files]]
 file = "mods/guideme-21.1.15.jar"
@@ -1279,6 +1299,10 @@ hash = "3e3f94d2d5cdcb8145c4385d521974aa2d8669b2cc212351f70cf06488182e83"
 [[files]]
 file = "mods/jei-1.21.1-neoforge-19.27.0.336.jar"
 hash = "2b6d84df11ab2bb94a75be8bac6790bfbb2c0112a1622cd5f5f234468a196721"
+
+[[files]]
+file = "mods/just-hammers-neoforge-21.1.4.jar"
+hash = "59487c8758fd762fcddc58e3b5e8a956de3f6a2115cd1c6f9a915939f5f985d8"
 
 [[files]]
 file = "mods/knightlib-neoforge-1.21.1-1.3.0.jar"
@@ -1406,6 +1430,10 @@ file = "mods/resourcefullib-neoforge-1.21-3.0.12.jar"
 hash = "5e36f2c69de008dc5795f730c84ab767688f15c810944b585485349a0c911261"
 
 [[files]]
+file = "mods/simplyswords-neoforge-1.63.0-1.21.1.jar"
+hash = "4619dcf1501fc82c1a52acd4c88a466436f5c1d7d2bccc0932912a12b0bc5198"
+
+[[files]]
 file = "mods/skinlayers3d-neoforge-1.11.1-mc1.21.1.jar"
 hash = "c825d6acd41a983217f410c6d51c6557e3afc35131f6da0aa6dcd07e67cfa52c"
 
@@ -1504,8 +1532,12 @@ file = "mods/xaeros_waystones_compatibility-NeoForge-1.21.1-2.1.0.jar"
 hash = "fcd0a18f5f5940b31353ee70ddb0194cf1cd9565a8bfc9557c93804e34422b89"
 
 [[files]]
-file = "mods/xaeroworldmap-neoforge-1.21.1-1.41.0.jar"
-hash = "b3e377b11d277cfbc0ccdd91a6fb6bc1ff4e93b354eb9c0277e1e4446c316ccb"
+file = "mods/xaeroworldmap-neoforge-1.21.1-1.41.2.jar"
+hash = "36b163fe8be4c2e800668c49294473da61eb360d821db675a2a948f8cc7c3d2b"
+
+[[files]]
+file = "mods/xptome-1.21.1-2.4.jar"
+hash = "9cc3fb2352f7024faacd081f4efe437bdb3e3af09ea4f2c0b2f8ca845de1125e"
 
 [[files]]
 file = "options.txt"
